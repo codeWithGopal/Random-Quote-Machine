@@ -1,0 +1,40 @@
+body{
+	background-color: black;
+	color:white;
+	font-family: Times New Roman;
+}
+#newquote{
+	display:block;
+	margin: 0 auto;
+	height:auto;
+	width:20%;
+	font-size: 20px;
+	padding:5px;
+	background-color: purple;
+
+}
+
+h1{
+	font-size: 50px;
+}
+p{
+	font-size: 20px;
+}
+.text-center{
+
+	text-align:center;
+}
+img{
+	padding:25px;
+}
+.quotes{
+	font-size: 30px;
+	width: 33%;
+	margin: 20px auto;
+	border: 2px solid white;
+	padding: 20px;
+	height: auto;
+}
+.author{
+	font-size: 20px;
+}
